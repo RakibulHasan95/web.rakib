@@ -342,6 +342,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 *{
   margin: 0;
@@ -361,7 +376,7 @@ nav{
 }
 nav .logo{
   color: #fff;
-  font-size: 28px;
+  font-size: 24px;
   font-weight: 600;
 }
 nav ul{
