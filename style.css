@@ -561,7 +561,7 @@ footer p {
     text-decoration: none;
     margin-bottom: 10px;
     display: inline-block;
-}
+float: left;width: 75px;}
 .seequicklink ul li{
     list-style: none;
 }
