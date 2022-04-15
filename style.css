@@ -163,7 +163,7 @@
     border-radius: 30px;
     padding: 5px;
     font-size: 20px;
-    margin-top: 43px;
+    margin-top: 16px;
 }
 .col-lg-4 .bg1 a button:hover{
     color: white;
@@ -194,7 +194,7 @@
     border-radius: 30px;
     padding: 5px;
     font-size: 20px;
-    margin-top: 43px;
+    margin-top: 0px;
 }
 .col-lg-4 .bg2 a button:hover{
     color: white;
@@ -225,7 +225,7 @@
     border-radius: 30px;
     padding: 5px;
     font-size: 20px;
-    margin-top: 43px;
+    margin-top: 0px;
 }
 .col-lg-4 .bg3 a button:hover{
     color: white;
@@ -256,7 +256,7 @@
     border-radius: 30px;
     padding: 5px;
     font-size: 20px;
-    margin-top: 43px;
+    margin-top: 0px;
 }
 .col-lg-4 .bg4 a button:hover{
     color: white;
@@ -287,7 +287,7 @@
     border-radius: 30px;
     padding: 5px;
     font-size: 20px;
-    margin-top: 43px;
+    margin-top: 0px;
 }
 .col-lg-4 .bg5 a button:hover{
     color: white;
@@ -396,7 +396,7 @@ nav ul li a{
   border-radius: 5px;
   letter-spacing: 1px;
   transition: all 0.3s ease;
-}
+background: blue;}
 nav ul li a.active,
 nav ul li a:hover{
   color: #111;
@@ -561,7 +561,9 @@ footer p {
     text-decoration: none;
     margin-bottom: 10px;
     display: inline-block;
-float: left;width: 75px;}
+    width: 50%;
+    float: left;
+}
 .seequicklink ul li{
     list-style: none;
 }
