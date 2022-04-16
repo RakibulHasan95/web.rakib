@@ -35,18 +35,18 @@
      border: none;
      text-align: center;
      margin-left: 20px;
-     background: orange;
+     background: #2c15e0;
      border-radius: 10px;
      width: 145px;
      padding: 9px;
      font-size: 20px;
- }
+ color: white;}
  .intro a i {
      font-size: 25px;
  }
  .intro a button:hover{
-     color: white;
-     background: black;
+     color: black;
+     background: white;
      transition: 0.5s;
  }
  .knowWebdesign{
@@ -572,6 +572,43 @@ footer p {
 .seequicklink ul li a:hover{
     color: #fff;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
